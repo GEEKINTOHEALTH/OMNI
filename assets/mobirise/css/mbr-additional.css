@@ -1,0 +1,54 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+
+
+
+
+
+
+
+
+#menu-1 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-1.mbr-navbar--stuck .mbr-navbar__section {
+  background: #28324e;
+}
+#menu-1 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#header1-0 P {
+  font-size: 23px;
+  font-family: 'Roboto', sans-serif;
+}
+#header1-0 H1 {
+  font-size: 72px;
+  font-family: 'Oswald', sans-serif;
+}
+#msg-box3-4 .mbr-header .mbr-header__text {
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  font-size: 46px;
+}
+#msg-box3-4 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#header4-27 H1 {
+  font-family: 'Oswald', sans-serif;
+}
+#header4-28 H1 {
+  font-family: 'Oswald', sans-serif;
+}
+#social-buttons2-26 .mbr-header__text {
+  font-family: 'Oswald', sans-serif;
+}
+#header4-34 H1 {
+  font-family: 'Oswald', sans-serif;
+}
+#contacts1-3 .mbr-contacts__img {
+  width: 80px;
+}
+#social-buttons1-35 .mbr-header__text {
+  font-family: 'Oswald', sans-serif;
+  color: #ffffff;
+}
